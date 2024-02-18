@@ -1,15 +1,10 @@
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+Furace      
+  GIT : https://github.com/furace/Bot-ghost-status-remover-by-furace
+  DISCORD SERVER : https://discord.gg/Mp95jZwqQp
+  YOUTUBE : .
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by furace
  * **********************************************
  */
 
@@ -36,7 +31,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["regarde des film ","écoutes vos suggestion"," bonne anner 2024✨"];
 
 
 let currentIndex = 0;
